@@ -1,4 +1,4 @@
-package pl.pjatk;
+package pl.pjatk.zjazd5;
 
 public class Calculator {
 
